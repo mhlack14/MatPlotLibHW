@@ -75,3 +75,4 @@ Here are some final considerations:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+# MatplotLibHW1
